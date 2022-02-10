@@ -4,7 +4,7 @@ import { useState } from "react";
 import tshirt from "./shirtbackground.png";
 import Picture from "./Picture.js";
 import TextTool from './texttool.js'
-import TextInput from "./Textinput.js";
+import TextInput from "./TextInput.js";
 import Sticker from "./Sticker.js";
 import Draw from "./Draw.js";
 import { Stage, Layer, Text, Image, Line } from "react-konva";
